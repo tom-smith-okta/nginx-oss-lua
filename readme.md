@@ -1,6 +1,6 @@
 # dockerfile for nginx lua
 
-This repo builds an nginx server on ubuntu xenial with lua modules enabled.
+This repo builds an nginx server with lua support on ubuntu xenial.
 
 To build:
 `docker build -t nginx-oss-lua .`
